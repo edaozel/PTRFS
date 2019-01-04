@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PTRFS</string>
+    <string name="title_activity_main">PTRFS</string>
+    <string name="title_activity_destination">Destination</string>
+    <string name="title_activity_route_detail">Route Details</string>
+</resources>
